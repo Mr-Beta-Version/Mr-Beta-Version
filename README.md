@@ -9,7 +9,7 @@
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Mr-Beta-Version&layout=compact&theme=chartreuse-dark" />
 <p align="center"> 
 
-#Languages and Tools
+# Languages :
 </p>
 
 <p align="center">
@@ -23,6 +23,8 @@
 <code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a></code>
 <br/><br/>
 </p>
+
+# Tools :
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Mr-Beta-Version&repo=BetaPaid&theme=chartreuse-dark" />
 <p align="center">
