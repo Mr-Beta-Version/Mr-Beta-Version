@@ -25,7 +25,7 @@
 </p>
 
 # Tools :
-<a href="https://github.com/Mr-Beta-Version/BetaPaid"><img title="Paid Command" src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Beta-Version&repo=BetaPaid&theme=chartreuse-dark"></a>
+<a href="https://github.com/Mr-Beta-Version/AWM"><img title="Paid Command" src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Beta-Version&repo=AWM&theme=chartreuse-dark"></a>
 <a href="https://github.com/Mr-Beta-Version/Token"><img title="Token Ganarator" src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Beta-Version&repo=Token&theme=vision-friendly-dark"></a>
 <a href="https://github.com/Mr-Beta-Version/Short"><img title="Command Shorter" src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Beta-Version&repo=Short&theme=dark"></a>
 <a href="https://github.com/Mr-Beta-Version/B009"><img title="2009 Ids Cloner" src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Beta-Version&repo=B009&theme=vision-friendly-dark"></a>
