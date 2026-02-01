@@ -1,6 +1,5 @@
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
-<a href="https://github.com/Mr-Beta-Version"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=Mr-Beta-Version&theme=monokai"></a>
-</p>  
+
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Mr-Beta-Version&layout=compact&theme=chartreuse-dark" />
 <p align="center"> 
