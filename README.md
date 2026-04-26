@@ -5,19 +5,19 @@
 <p align="center"> 
 
 
-# Languages :
-</p>
-<p align="center">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="Twitter" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="Twitter" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="Twitter" style="vertical-align:top; margin:4px">
- <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white">
- </p>
+| Language | Badge |
+|----------|------|
+| JavaScript | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
+| Bash | ![Bash](https://img.shields.io/badge/-Bash-121011?logo=gnu-bash&logoColor=white) |
+| Python | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
+| HTML | ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) |
+| Batchfile | ![Batchfile](https://img.shields.io/badge/-Batchfile-4D4D4D?logo=windowsterminal&logoColor=white) |
+| Shell | ![Shell](https://img.shields.io/badge/-Shell-89E051?logo=gnu-bash&logoColor=black) |
+| TypeScript | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) |
+| Java | ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) |
+| C | ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black) |
+| C++ | ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=cplusplus&logoColor=white) |
+| MQL4 | ![MQL4](https://img.shields.io/badge/-MQL4-000000?logo=metaquotes&logoColor=white) |
+| Linux | ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) |
+| npm | ![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white) |
 
-<p align="center">
-<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-<code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
-<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
-<br/><br/>
-
-
-
-[![Facebook](https://img.shields.io/badge/Facebook-Beta-blue?style=flat-square&logo=facebook)](https://www.facebook.com/FB.HunterBeta)</br>
