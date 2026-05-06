@@ -9,8 +9,8 @@
 
 <!-- GITHUB STATS -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mr-Beta-Version&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Beta-Version&layout=compact&theme=tokyonight" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mr-Beta-Version&theme=tokyonight" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mr-Beta-Version&theme=tokyonight" height="180"/>
 </p>
 
 ---
